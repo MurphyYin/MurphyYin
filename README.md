@@ -26,5 +26,5 @@ Research Intern at Baidu Inc. | Prev. Meituan Longcat & Stepfun | 🥈 Silver Me
 
 ### Connect with Me
 
-- 📧: [murphyyin4122@gmail.com](mailto:murphyyin4122@gmail.com)
-- 𝕏:  [HYPERUU4122](https://x.com/HYPERUU4122)
+[![Gmail](https://img.shields.io/badge/Gmail-murphyyin4122%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:murphyyin4122@gmail.com)&nbsp;
+[![X](https://img.shields.io/badge/X-%40HYPERUU4122-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/HYPERUU4122)&nbsp;
