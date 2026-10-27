@@ -5,7 +5,7 @@ Research Intern at Baidu Inc. | Prev. Meituan Longcat & Stepfun | 🥈 Silver Me
 
 ### Publication & Project
 
-- [Unlimited-OCR](https://github.com/baidu/Unlimited-OCR): **#1 GitHub Trending**, **#1 Hugging Face Trending**, **1M+ downloads**.
+- [Unlimited-OCR](https://github.com/baidu/Unlimited-OCR): **#1 GitHub Trending**, **#1 Hugging Face Trending**, **10M+ downloads**.
   
   **Youyang Yin**, Huanhuan Liu, YY, Qunyi Xie, Chaorun Liu, Shiqi Yang, Shaohua Wang, Zhanlong Liu, Hao Zou, Jinyue Chen, Shu Wei, Jingjing Wu, Mingxin Huang, Zhen Wu, Guibin Wang, Tengyu Du, Lei Jia
 
@@ -15,14 +15,6 @@ Research Intern at Baidu Inc. | Prev. Meituan Longcat & Stepfun | 🥈 Silver Me
     <img src="https://github.com/user-attachments/assets/8991cd9b-7b1a-4cfd-bdae-d0790e1b070d" width="49%" />
     <img src="https://github.com/user-attachments/assets/731897ca-7387-46a5-af62-db70974a6808" width="49%" />
   </p>
-
-- [LUSPO]()
-
-  Fanfan Liu*, **Youyang Yin**\*, Peng Shi, Siqi Yang, Zhixiong Zeng, Haibo Qiu
-
-- [Slow perception](https://github.com/Ucas-HaoranWei/Slow-Perception)
-
-  Haoran Wei*, **Youyang Yin**\*, Yumeng Li, Jia Wang, Liang Zhao, Jianjian Sun, Zheng Ge, Xiangyu Zhang, Daxin Jiang
 
 ### Connect with Me
 
